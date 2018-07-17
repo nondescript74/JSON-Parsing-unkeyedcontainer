@@ -9,3 +9,5 @@ Quandl encapsulates their returned data into a structure that any decoder being 
 Using the Codable protocol to define the parsing instructions eliminates the need for a third party library to parse this json into a model
 
 This example is provided in the form of an Apple Playgroud
+
+You may also wish to visit www.Cocoacasts.com for further help on Codable and its use as well as developer.apple.com https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types
